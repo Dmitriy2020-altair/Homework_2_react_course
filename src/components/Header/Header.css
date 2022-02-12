@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(139, 247, 247);
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    color: rgb(104, 100, 100);
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.header-description {
+    font-size: 20px;
+}

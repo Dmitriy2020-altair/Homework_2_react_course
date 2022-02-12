@@ -1,0 +1,19 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(214, 217, 218);
+    padding: 30px;
+    box-shadow: 0 4px 10px;
+    border-radius: 5px;
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-title {
+    color: rgb(51, 51, 53);
+    font-size: 26px;
+}
